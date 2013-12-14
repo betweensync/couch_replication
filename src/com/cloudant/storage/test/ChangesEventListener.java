@@ -30,8 +30,8 @@ public class ChangesEventListener {
 	public void attachmentTest1() {
 		try {
 			HttpClient httpClient = new StdHttpClient.Builder().url(url)
-					.username("adm-jerryj")
-					.password("Tjfdkr12")
+					.username("ighlyesesedisentstoldneg")
+					.password("cOlugjOsPXtkHyR1SPvNDYME")
 					.connectionTimeout(5000)
 					.socketTimeout(30000).build();
 
